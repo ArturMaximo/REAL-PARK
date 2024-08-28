@@ -75,3 +75,69 @@ Proteção de Dados Sensíveis: Mesmo dados públicos podem conter informações
 
 Licenciamento e Uso: Dados públicos podem ser disponibilizados sob diferentes tipos de licenças que definem como eles podem ser usados e redistribuídos. É importante que essas licenças sejam claras para evitar usos inadequados ou não autorizados dos dados.
 
+
+
+
+Definição de Java, C++, Python
+
+Java
+
+ Java é uma linguagem de programação orientada a objetos, desenvolvida pela Sun Microsystems (agora parte da Oracle) e lançada em 1995.
+Características principais:
+
+Portabilidade: "Escreva uma vez, execute em qualquer lugar" (WORA). O código Java é compilado em bytecode, que é executado na Java Virtual Machine (JVM), tornando-o independente da plataforma.
+Orientação a Objetos: Enfatiza o uso de objetos e classes para modelar dados e comportamentos.
+
+Gerenciamento de Memória: Possui coleta automática de lixo (garbage collection) para gerenciar a memória.
+
+Segurança e Robustez: Inclui recursos como verificação de bytecode e manipulação segura de exceções.
+
+C++
+
+ C++ é uma linguagem de programação que é uma extensão da linguagem C, desenvolvida por Bjarne Stroustrup e lançada em 1985.
+Características principais:
+
+Orientação a Objetos e Procedural: Suporta programação orientada a objetos (classes e herança) e programação procedural (funções e estruturas).
+
+Controle de Baixo Nível: Oferece um controle detalhado sobre a alocação de memória e hardware, semelhante ao C.
+
+Desempenho: É conhecida por sua alta performance e eficiência, sendo usada em sistemas operacionais, jogos e aplicativos que exigem processamento rápido.
+Template e Sobrecarga: Suporta templates para programação genérica e sobrecarga de funções e operadores.
+
+Python
+
+ Python é uma linguagem de programação de alto nível, desenvolvida por Guido van Rossum e lançada em 1991.
+Características principais:
+
+Simplicidade e Legibilidade: Tem uma sintaxe clara e legível, facilitando a escrita e a manutenção do código.
+
+Versatilidade: Suportado por uma vasta gama de bibliotecas e frameworks, é usado para desenvolvimento web, automação, ciência de dados, inteligência artificial e muito mais.
+
+Interpretação e Tipagem Dinâmica: É uma linguagem interpretada e usa tipagem dinâmica, o que permite a criação rápida e flexível de scripts e programas.
+
+Código Java:
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Olá, Mundo!");
+    }
+}
+
+
+Código Python:
+
+print("Olá, Mundo!")
+
+
+Código C++:
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Olá, Mundo!" << endl;
+    return 0;
+}
+
+Comunidade Ativa: Possui uma grande comunidade e um rico ecossistema de pacotes e módulos, o que facilita encontrar suporte e recursos.
+
